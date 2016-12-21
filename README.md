@@ -28,7 +28,7 @@ If you'd like to play with us, start by coming along to the regular Thursday nig
 | Day | Session info                                                                           |
 | --- | ---------------------------------------------------------------------------------------| 
 | First, Third and Fifth Tuesday of the month 19:00-21:00     | [Oriental Hotel, Springwood]    |
-| Second, Fourth and Sixth* Thursday of the month 19:200-21:00 | [New Ivanhoe Hotel, Blackheath]  |
+| Second, Fourth and Sixth* Thursday of the month 19:00-21:00 | [New Ivanhoe Hotel, Blackheath]  |
 
 *This will double as an end-of-the-world farewell
 
