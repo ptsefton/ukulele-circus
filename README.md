@@ -1,7 +1,7 @@
 
 ## Welcome to (Luck Phil's) Ukulele Circus
 
-There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? Has as a Ukulele Circus, that's why. This goes some way to making up for his other challenges and disappointments in life. Although he is a newly-minted grandfather, so that's something.
+There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? He has as a Ukulele Circus, that's why. This goes some way to making up for his other challenges and disappointments in life. Although he is a newly-minted grandfather, so that's something.
 
 ## What's on? (Circus and friends...)
 
