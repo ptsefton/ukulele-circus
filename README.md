@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to (Luck Phil's) Ukulele Circus
 
-You can use the [editor on GitHub](https://github.com/ptsefton/ukulele-circus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+There are a few Ukulele Circuses in the world, this one is Lucky Phil's. Why is Phil Lucky? Has as a Ukulele Circus. This goes some way to making up for his other challenges and dissapointments in life. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Not tested on animals
 
-### Markdown
+Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats and no jugglers, although we do have a few down-market ring masters.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## OK, how can I get involved
 
-```markdown
-Syntax highlighted code block
+The Ukulele circus plays on the first Friday of every month at the Blue Mountain hotel.
 
-# Header 1
-## Header 2
-### Header 3
+If you'd like to play with us, start by coming along to the regular Thursday night session at the New Ivanhoe Hotel in Blackheath.
 
-- Bulleted
-- List
+## Events
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ptsefton/ukulele-circus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
