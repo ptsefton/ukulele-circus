@@ -21,14 +21,16 @@ Many modern circuses have no animals, and this one is no different. We also have
 
 The Ukulele circus puts up its tent on the first Friday of every month at the Blue Mountains Hotel in Lawson (that's near Sydney, in Australia).
 
-If you'd like to play with us, start by coming along to the regular Thursday night Uke session at the New Ivanhoe Hotel in Blackheath (about an hour further from Sydney), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
+If you'd like to play with us, start by coming along to the regular Thursday night Uke session at the New Ivanhoe Hotel in Blackheath (about half an hour further from Sydney), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
 
 ## Sessions
 
 | Day | Session info                                                                           |
 | --- | ---------------------------------------------------------------------------------------| 
 | First, Third and Fifth Tuesday of the month 19:00-21:00     | [Oriental Hotel, Springwood]    |
-| Second, Fourth and Sixth Thursday of the month 19:200-21:00 | [New Ivanhoe Hotel, Blackheath]  |
+| Second, Fourth and Sixth* Thursday of the month 19:200-21:00 | [New Ivanhoe Hotel, Blackheath]  |
+
+*This will double as an end-of-the-world farewell
 
 [Oriental Hotel, Springwood]: https://www.google.com.au/maps/place/Oriental+Hotel/@-33.6994905,150.5656596,17z/data=!3m1!4b1!4m5!3m4!1s0x6b127d68dbf659e1:0x29820df1f067a6bf!8m2!3d-33.699495!4d150.5678536
 [Blue Mountains Hotel, Lawson]: https://www.google.com.au/maps/place/Blue+Mountains+Hotel/@-33.7196205,150.427793,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12650fe9797be1:0xbfe1b3dda6062b5a!8m2!3d-33.719625!4d150.429987
