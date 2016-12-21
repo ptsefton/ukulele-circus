@@ -5,10 +5,12 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 
 ## What's on? (Circus and friends...)
 
-| Date             | What's on                                                | Venue                          |
-| -------------    | -------------                                            |--------------------------------|
-| ????             | Ukulele Circus performs                                  | [Blue Mountains Hotel, Lawson] |  
-| 17th March 2017  | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
+| Date                       | What's on                                                | Venue                          |
+| -------------              | -------------                                            |--------------------------------|
+| First Friday               | Ukulele Circus performs                                  | [Blue Mountains Hotel, Lawson] |  
+| Sunday 12th February       | U4ria perform for breakfast ($20)                        | [Hotel Blue]                   | 
+| Friday 17th March 2017 7pm | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
+
 
 
 ## Not tested on animals
@@ -31,4 +33,5 @@ If you'd like to play with us, start by coming along to the regular Thursday nig
 [Oriental Hotel, Springwood]: https://www.google.com.au/maps/place/Oriental+Hotel/@-33.6994905,150.5656596,17z/data=!3m1!4b1!4m5!3m4!1s0x6b127d68dbf659e1:0x29820df1f067a6bf!8m2!3d-33.699495!4d150.5678536
 [Blue Mountains Hotel, Lawson]: https://www.google.com.au/maps/place/Blue+Mountains+Hotel/@-33.7196205,150.427793,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12650fe9797be1:0xbfe1b3dda6062b5a!8m2!3d-33.719625!4d150.429987
 [New Ivanhoe Hotel, Blackheath]: https://www.google.com.au/maps/place/New+Ivanhoe+Hotel/@-33.6359015,150.2831043,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12721474cd64a9:0x49fb6d2e1d8e0d83!8m2!3d-33.635906!4d150.2852983
+[Hotel Blue]: http://loungesessions.com.au/
 
