@@ -5,11 +5,11 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 
 ## What's on? (Circus and friends...)
 
-| Date                       | What's on                                                | Venue                          |
-| -------------              | -------------                                            |--------------------------------|
-| First Friday               | Ukulele Circus performs                                  | [Blue Mountains Hotel, Lawson] |  
-| Sunday 12th February       | U4ria perform for breakfast ($20)                        | [Hotel Blue]                   | 
-| Friday 17th March 2017 7pm | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
+| Date                 | Time         | What's on                                                | Venue                          |
+| -------------        | ------       | -------------                                            |--------------------------------|
+| First Friday         | 19:00 - 21:00| Ukulele Circus performs                                  | [Blue Mountains Hotel, Lawson] |  
+| Sunday 12th February | 08:00-10:00  | U4ria perform for breakfast ($20)                        | [Hotel Blue]                   | 
+| Friday 17th March 2017 | 18:00-???  | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
 
 
 
