@@ -1,25 +1,25 @@
 
 ## Welcome to (Luck Phil's) Ukulele Circus
 
-There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? Has as a Ukulele Circus, that; why. This goes some way to making up for his other challenges and dissapointments in life. Although he is a newly-minted grandfather, so that's something.
+There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? Has as a Ukulele Circus, that's why. This goes some way to making up for his other challenges and disappointments in life. Although he is a newly-minted grandfather, so that's something.
 
 ## What's on? (Circus and friends...)
 
-| Date             | What's on                                      | Venue  |
-| -------------    | ------------- |--------------------------------|
-| ????  | Ukulele Circus performs                                 | [Blue Mountains Hotel, Lawson] |  
-| 17th March 2017  | The Shillelaghs play St Patrick Day          | [Oriental Hotel, Springwood] |
+| Date             | What's on                                                | Venue                          |
+| -------------    | -------------                                            |--------------------------------|
+| ????             | Ukulele Circus performs                                  | [Blue Mountains Hotel, Lawson] |  
+| 17th March 2017  | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
 
 
 ## Not tested on animals
 
-Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats and no jugglers, although we do have a few down-market ring masters.
+Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters.
 
 ## OK, ok, I want to be Lucky Like Phil™ how can I get involved?
 
 The Ukulele circus puts up its tent on the first Friday of every month at the Blue Mountains Hotel in Lawson (that's near Sydney, in Australia).
 
-If you'd like to play with us, start by coming along to the regular Thursday night Uke session at the New Ivanhoe Hotel in Blackheath, or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood.
+If you'd like to play with us, start by coming along to the regular Thursday night Uke session at the New Ivanhoe Hotel in Blackheath (about an hour further from Sydney), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
 
 ## Sessions
 
