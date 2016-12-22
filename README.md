@@ -1,5 +1,5 @@
 
-## Welcome to (Luck Phil's) Ukulele Circus
+## Welcome to (Lucky Phil's) Ukulele Circus
 
 There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? He has as a Ukulele Circus, that's why. This goes some way to making up for his other challenges and disappointments in life. He is a newly-minted grandfather, though, so that's something.
 
@@ -10,9 +10,9 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 | Friday 23rd December 2016 | 18:00 - 20:00 | [The Orchard Boat]                                  | [Blue Mountain Hotel, Lawson] | 
 | Monday 26th December | 18:30 - 20:30   | [The Orchard Boat] (with Tay)                           | [Hotel Blue, Katoomba]                   |
 | Friday 6th January & Friday 3rd Feb 2017| 19:00 - 21:00| Ukulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
-| Friday 10th - Sunday 12th February | * | Most of us wil be at theBlue Mountains Ukulele [Festival] |  Katoomba             |
+| Friday 10th - Sunday 12th February | * | Most of us wil be at the Blue Mountains Ukulele [Festival] |  Katoomba             |
 | Sunday 12th February | 08:00-10:00  | [U4ria] perform for breakfast ($20)                        | [Hotel Blue, Katoomba]         | 
-| Friday 17th March   | 18:00-???  | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
+| Friday 17th March   | 18:00-???  | The Shillelaghs play St Patrick's Day                      | [Oriental Hotel, Springwood]   |
 
 
 ## Not tested on animals
