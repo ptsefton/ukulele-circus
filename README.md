@@ -40,8 +40,8 @@ Join our Google Group [mailing list] to get notified of what's going on, or get 
 
 Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Ukulele Group ([Blue MUGs]), lots of fun stuff on there.
 
-[The Orchard Boat]: https://www.facebook.com/theorchardboat/
-[U4ria]: https://www.facebook.com/U4riaBand/
+[The Orchard Boat]: https://www.facebook.com/theorchardboat/ "The Orchard Boat are Rob And BJ taking their gypsy guitar and accordion on a musical adventure through the Jazz, Irish, French and quirky pop music scene."
+[U4ria]: https://www.facebook.com/U4riaBand/ "U4ria is a 5 piece quartet who started out playing Beatles songs, but who have been distracted and subverted by banjo player"
 [Oriental Hotel, Springwood]: https://www.google.com.au/maps/place/Oriental+Hotel/@-33.6994905,150.5656596,17z/data=!3m1!4b1!4m5!3m4!1s0x6b127d68dbf659e1:0x29820df1f067a6bf!8m2!3d-33.699495!4d150.5678536
 [Blue Mountain Hotel, Lawson]: https://www.google.com.au/maps/place/Blue+Mountains+Hotel/@-33.7196205,150.427793,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12650fe9797be1:0xbfe1b3dda6062b5a!8m2!3d-33.719625!4d150.429987
 [New Ivanhoe Hotel, Blackheath]: https://www.google.com.au/maps/place/New+Ivanhoe+Hotel/@-33.6359015,150.2831043,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12721474cd64a9:0x49fb6d2e1d8e0d83!8m2!3d-33.635906!4d150.2852983
