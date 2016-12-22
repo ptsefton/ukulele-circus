@@ -15,7 +15,6 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 | Friday 17th March   | 18:00-???  | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
 
 
-
 ## Not tested on animals
 
 Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
@@ -25,6 +24,8 @@ Many modern circuses have no animals, and this one is no different. We also have
 The Ukulele circus pitches its tent on the first Friday of every month at the Blue Mountains Hotel in Lawson (that's near Sydney, in Australia).
 
 If you'd like to play with us, start by coming along to the regular Thursday night uke session at the New Ivanhoe Hotel in Blackheath (about half an hour further from Sydney), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
+
+Join our Google Group [mailing list] to get notified of what's going on, or get in contact with us.
 
 ## Sessions
 
@@ -46,4 +47,5 @@ Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Uk
 [The Ukulele Club Songbook]: http://katoombamusic.com.au/product/ukulele-club-songbook/
 [Blue MUGs]: http://bluemugs.net/
 [Festival]: https://www.facebook.com/bluemountainsukefest/
+[mailing list]: https://groups.google.com/d/forum/lucky-phils-ukulele-circus
 
