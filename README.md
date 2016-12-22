@@ -8,10 +8,10 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 | Date                 | Time         | What's on                                                | Venue                          |
 | -------------        | ------       | -------------                                            |--------------------------------|
 | Friday 23rd December 2016 | 18:00 - 20:00 | The Orchard Boat                                   | [Blue Mountain Hotel, Lawson] | 
-| Monday 26th December | 18:30 - 20:30   | The Orchard Boat (with Tay)                           | [Hotel Blue]                   |
+| Monday 26th December | 18:30 - 20:30   | The Orchard Boat (with Tay)                           | [Hotel Blue, Katoomba]                   |
 | Friday 6th January 2017 | 19:00 - 21:00| Ukulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
 | Friday 10th - Sunday 12th February 2017 | * | Most of us wil be at theBlue Mountains Ukulele [Festival] |  Katoomba             |
-| Sunday 12th February | 08:00-10:00  | U4ria perform for breakfast ($20)                        | [Hotel Blue]                   | 
+| Sunday 12th February | 08:00-10:00  | U4ria perform for breakfast ($20)                        | [Hotel Blue, Katoomba]         | 
 | Friday 17th March 2017 | 18:00-???  | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
 
 
@@ -24,7 +24,7 @@ Many modern circuses have no animals, and this one is no different. We also have
 
 The Ukulele circus pitches its tent on the first Friday of every month at the Blue Mountains Hotel in Lawson (that's near Sydney, in Australia).
 
-If you'd like to play with us, start by coming along to the regular Thursday night Uke session at the New Ivanhoe Hotel in Blackheath (about half an hour further from Sydney), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
+If you'd like to play with us, start by coming along to the regular Thursday night uke session at the New Ivanhoe Hotel in Blackheath (about half an hour further from Sydney), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
 
 ## Sessions
 
@@ -37,12 +37,12 @@ If you'd like to play with us, start by coming along to the regular Thursday nig
 
 ## Is that all there is?
 
-Many of the Ukulele Circus Phreaks met via, and play with the Blue Mountains Ukulele Group ([Blue MUGs]), lots of fun stuff on there.
+Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Ukulele Group ([Blue MUGs]), lots of fun stuff on there.
 
 [Oriental Hotel, Springwood]: https://www.google.com.au/maps/place/Oriental+Hotel/@-33.6994905,150.5656596,17z/data=!3m1!4b1!4m5!3m4!1s0x6b127d68dbf659e1:0x29820df1f067a6bf!8m2!3d-33.699495!4d150.5678536
 [Blue Mountain Hotel, Lawson]: https://www.google.com.au/maps/place/Blue+Mountains+Hotel/@-33.7196205,150.427793,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12650fe9797be1:0xbfe1b3dda6062b5a!8m2!3d-33.719625!4d150.429987
 [New Ivanhoe Hotel, Blackheath]: https://www.google.com.au/maps/place/New+Ivanhoe+Hotel/@-33.6359015,150.2831043,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12721474cd64a9:0x49fb6d2e1d8e0d83!8m2!3d-33.635906!4d150.2852983
-[Hotel Blue]: http://loungesessions.com.au/
+[Hotel Blue, Katoomba]: http://loungesessions.com.au/
 [The Ukulele Club Songbook]: http://katoombamusic.com.au/product/ukulele-club-songbook/
 [Blue MUGs]: http://bluemugs.net/
 [Festival]: https://www.facebook.com/bluemountainsukefest/
