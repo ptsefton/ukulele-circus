@@ -10,15 +10,15 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 | Friday 23rd December 2016 | 18:00 - 20:00 | The Orchard Boat                                   | [Blue Mountain Hotel, Lawson] | 
 | Monday 26th December | 18:30 - 20:30   | The Orchard Boat (with Tay)                           | [Hotel Blue, Katoomba]                   |
 | Friday 6th January 2017 | 19:00 - 21:00| Ukulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
-| Friday 10th - Sunday 12th February 2017 | * | Most of us wil be at theBlue Mountains Ukulele [Festival] |  Katoomba             |
+| Friday 10th - Sunday 12th February | * | Most of us wil be at theBlue Mountains Ukulele [Festival] |  Katoomba             |
 | Sunday 12th February | 08:00-10:00  | U4ria perform for breakfast ($20)                        | [Hotel Blue, Katoomba]         | 
-| Friday 17th March 2017 | 18:00-???  | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
+| Friday 17th March   | 18:00-???  | The Shillelaghs play St Patrick Day                      | [Oriental Hotel, Springwood]   |
 
 
 
 ## Not tested on animals
 
-Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters.
+Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
 
 ## OK, OK, I want to be Lucky Like Phil™ how can I get involved?
 
