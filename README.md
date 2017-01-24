@@ -30,7 +30,7 @@ Join our Google Group [mailing list] to get notified of what's going on, or to g
 
 | Day | Session info             | Venue                                                               |
 | --- | ------------------------------------------------------|---------------------------------| 
-| First, third and fifth Tuesday of the month 19:00-21:00     | Irish (and other) folk. Uke based session | [Oriental Hotel, Springwood]    |
+| First, third and fifth Tuesday of the month 19:00-21:00     | Irish (and other) folk. Uke based session. | [Oriental Hotel, Springwood]    |
 | Second, fourth and sixth* Thursday of the month 19:00-21:00 | Open uke sing and strum, bring your copy of the [The Ukulele Club Songbook] or print some charts for us to sing | [New Ivanhoe Hotel, Blackheath]  |
 
 \* Should a sixth thursday happen this session will double as an end-of-the-world farewell
