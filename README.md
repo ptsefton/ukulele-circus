@@ -7,9 +7,8 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 
 | Date                 | Time         | What's on                                                | Venue                          |
 | -------------        | ------       | -------------                                            |--------------------------------|
-| Friday 23rd December 2016 | 18:00 - 20:00 | [The Orchard Boat]                                  | [Blue Mountain Hotel, Lawson] | 
-| Monday 26th December | 18:30 - 20:30   | [The Orchard Boat] (with Tay)                           | [Hotel Blue, Katoomba]                   |
-| Friday 6th January & Friday 3rd Feb 2017| 19:00 - 21:00| Ukulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
+|  Thursday 26th January | 17:00 - 19:00 | Early session at the New Ivanhoe. The Blue Mugs "off the rails" Uke pub crawl will be finishing up in Blackheath at 17:00-ish | [New Ivanhoe Hotel, Blackheath] |
+|  Friday 3rd Feb 2017| 19:00 - 21:00| Ukulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
 | Friday 10th - Sunday 12th February | * | Most of us wil be at the Blue Mountains Ukulele [Festival] |  Katoomba             |
 | Sunday 12th February | 08:00-10:00  | [U4ria] perform for breakfast ($20)                        | [Hotel Blue, Katoomba]         | 
 | Friday 17th March   | 18:00-???  | The Shillelaghs play St Patrick's Day                      | [Oriental Hotel, Springwood]   |
