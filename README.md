@@ -7,20 +7,19 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 
 | Date                 | Time         | What's on                                                | Venue                          |
 | -------------        | ------       | -------------                                            |--------------------------------|
-|  Thursday 26th January | 17:00 - 19:00 | Early session at the New Ivanhoe. The Blue Mugs "off the rails" Uke pub crawl will be finishing up in Blackheath at 17:00-ish | [New Ivanhoe Hotel, Blackheath] |
 |  Friday 3rd Feb 2017| 19:00 - 21:00| Ukulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
 | Friday 10th - Sunday 12th February | * | Most of us wil be at the Blue Mountains Ukulele [Festival] |  Katoomba             |
 | Sunday 12th February | 08:00-10:00  | [U4ria] perform for breakfast ($20)                        | [Hotel Blue, Katoomba]         | 
 | Friday 17th March   | 18:00-???  | The Shillelaghs play St Patrick's Day                      | [Oriental Hotel, Springwood]   |
 
 
-## Not tested on animals
+## Ükulele Circus: Not tested on animals!!!!
 
 Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
 
 ## OK, OK, I want to be Lucky Like Phil™ how can I get involved?
 
-The Ukulele circus pitches its tent on the first Friday of every month at the Blue Mountains Hotel in Lawson (that's near Sydney, in Australia).
+The Ükulele Circus pitches its tent on the first Friday of every month at the Blue Mountains Hotel in Lawson (that's near Sydney, in Australia).
 
 If you'd like to play with us, start by coming along to the regular Thursday night uke session at the New Ivanhoe Hotel in Blackheath (about half an hour further from Sydney than Lawson), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
 
