@@ -7,12 +7,14 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 
 | Date                 | Time         | What's on                                                | Venue                          |
 | -------------        | ------       | -------------                                            |--------------------------------|
-|  Friday 3rd Feb 2017| 19:00 - 21:00| Ukulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
-| Friday 10th - Sunday 12th February | * | Most of us wil be at the Blue Mountains Ukulele [Festival] |  Katoomba             |
-| Sunday 12th February | 08:00-10:00  | [U4ria] perform for breakfast ($20)                        | [Hotel Blue, Katoomba]         | 
-| Friday 17th March   | 18:00-???  | The Shillelaghs play St Patrick's Day                      | [Oriental Hotel, Springwood]   |
+| Friday 24th February | 19:00 - 21:00 | [The Orchard Boat] + Tay (!)                         | [Blue Mountain Hotel, Lawson]       |
+| Saturday 25th February | 18:30 - 20:30| [The Orchard Boat] + Tay (!!)                        | [Hotel Blue, Katoomba]             |
+| Sunday 26th February | 12:00 - 13:00  | [U4ria] do a preschool fête (huge benefit gig       | [Katoomba Leura Preschool]        | 
+| Friday 3rd March 2017| 19:00 - 21:00| Ükulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
+| Friday 17th March    | 18:00-???  | [The Shillelaghs] play St Patrick's Day                     | [Oriental Hotel, Springwood]   |
+| Sunday 2nd April     | All day (TBA) | Ükulele Circus and friends! play to 12,000 people\*           | [Milthorpe Markets] |
 
-
+\* Not all people played to at the same time
 ## Ükulele Circus: Not tested on animals!!!!
 
 Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
@@ -30,9 +32,9 @@ Join our Google Group [mailing list] to get notified of what's going on, or to g
 | Day | Session info             | Venue                                                               |
 | --- | ------------------------------------------------------|---------------------------------| 
 | First, third and fifth Tuesday of the month 19:00-21:00     | Irish (and other) folk. Uke based session. | [Oriental Hotel, Springwood]    |
-| Second, fourth and sixth* Thursday of the month 19:00-21:00 | Open uke sing and strum, bring your copy of the [The Ukulele Club Songbook] or print some charts for us to sing | [New Ivanhoe Hotel, Blackheath]  |
+| Second, fourth and sixth\*\* Thursday of the month 19:00-21:00 | Open uke sing and strum, bring your copy of the [The Ukulele Club Songbook] or print some charts for us to sing | [New Ivanhoe Hotel, Blackheath]  |
 
-\* Should a sixth thursday happen this session will double as an end-of-the-world farewell
+\** Should a sixth thursday happen this session will double as an end-of-the-world farewell
 
 ## Is that all there is?
 
@@ -49,4 +51,6 @@ Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Uk
 [Festival]: https://www.facebook.com/bluemountainsukefest/
 [mailing list]: https://groups.google.com/d/forum/lucky-phils-ukulele-circus
 [Facebook page]: https://www.facebook.com/circusukulele/
-
+[Katoomba Leura Preschool]:  http://www.katoombaleurapreschool.com.au/news-events
+[Milthorpe Markets]: http://www.millthorpemarkets.com/
+[The Shillelaghs]: https://www.facebook.com/theshillelaghsau/
