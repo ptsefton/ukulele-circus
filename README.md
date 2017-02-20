@@ -9,7 +9,7 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 | -------------        | ------       | -------------                                            |--------------------------------|
 | Friday 24th February | 19:00 - 21:00 | [The Orchard Boat] + Tay (!)                         | [Blue Mountain Hotel, Lawson]       |
 | Saturday 25th February | 18:30 - 20:30| [The Orchard Boat] + Tay (!!)                        | [Hotel Blue, Katoomba]             |
-| Sunday 26th February | 12:00 - 13:00  | [U4ria] do a preschool fête (huge benefit gig       | [Katoomba Leura Preschool]        | 
+| Sunday 26th February | 12:00 - 13:00  | [U4ria] do a preschool fête (huge benefit gig)       | [Katoomba Leura Preschool]        | 
 | Friday 3rd March 2017| 19:00 - 21:00| Ükulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
 | Friday 17th March    | 18:00-???  | [The Shillelaghs] play St Patrick's Day                     | [Oriental Hotel, Springwood]   |
 | Sunday 2nd April     | All day (TBA) | Ükulele Circus and friends! play to 12,000 people\*           | [Milthorpe Markets] |
@@ -38,7 +38,7 @@ Join our Google Group [mailing list] to get notified of what's going on, or to g
 
 ## Is that all there is?
 
-Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Ukulele Group ([Blue MUGs]), lots of fun stuff on there.
+Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Ukulele Group ([Blue MUGs]), lots of fun stuff on there. The Blue MUGs are welcoming and inclusive, check them out!
 
 [The Orchard Boat]: https://www.facebook.com/theorchardboat/ "The Orchard Boat are Rob And BJ taking their gypsy guitar and accordion on a musical adventure through the Jazz, Irish, French and quirky pop music scene."
 [U4ria]: https://www.facebook.com/U4riaBand/ "U4ria is a 5 piece quartet who started out playing Beatles songs, but who have been distracted and subverted by banjo player"
