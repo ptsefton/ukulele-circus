@@ -7,9 +7,6 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 
 | Date                 | Time         | What's on                                                | Venue                          |
 | -------------        | ------       | -------------                                            |--------------------------------|
-| Friday 24th February | 19:00 - 21:00 | [The Orchard Boat] + Tay (!)                         | [Blue Mountain Hotel, Lawson]       |
-| Saturday 25th February | 18:30 - 20:30| [The Orchard Boat] + Tay (!!)                        | [Hotel Blue, Katoomba]             |
-| Sunday 26th February | 12:00 - 13:00  | [U4ria] do a preschool fête (huge benefit gig)       | [Katoomba Leura Preschool]        | 
 | Friday 3rd March 2017| 19:00 - 21:00| Ükulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
 | Friday 17th March    | 18:00-???  | [The Shillelaghs] play St Patrick's Day                     | [Oriental Hotel, Springwood]   |
 | Sunday 2nd April     | All day (TBA) | Ükulele Circus and friends! play to 12,000 people\*           | [Milthorpe Markets] |
