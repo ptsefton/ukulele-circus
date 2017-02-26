@@ -40,6 +40,7 @@ Join our Google Group [mailing list] to get notified of what's going on, or to g
 
 Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Ukulele Group ([Blue MUGs]), lots of fun stuff on there. The Blue MUGs are welcoming and inclusive, check them out!
 
+Here's the Blue MUGs gig guide:
 <div>
 <iframe frameborder="0" height="400" scrolling="no" src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=6hnpcue2i2kr6ubb37brpod2q8%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FSydney" style="border-width: 0;" width="800"></iframe>
 </div>
