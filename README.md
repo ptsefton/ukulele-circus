@@ -30,22 +30,17 @@ Join our Google Group [mailing list] to get notified of what's going on, or to g
 
 \** Should a sixth thursday happen this session will double as an end-of-the-world farewell
 
+## Is that all there is?
+
+Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Ukulele Group ([Blue MUGs]), lots of fun stuff on there. The Blue MUGs are welcoming and inclusive, check them out!
+
+
 ## What's on? (Circus and friends...)
 
 
 <div>
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=0pahurjenva4h0cgnk8b14lmcg%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FSydney" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <div>
-
-## Is that all there is?
-
-Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Ukulele Group ([Blue MUGs]), lots of fun stuff on there. The Blue MUGs are welcoming and inclusive, check them out!
-
-Here's the Blue MUGs gig guide:
-<div>
-<iframe frameborder="0" height="400" scrolling="no" src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=6hnpcue2i2kr6ubb37brpod2q8%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FSydney" style="border-width: 0;" width="800"></iframe>
-</div>
-
 
 [The Orchard Boat]: https://www.facebook.com/theorchardboat/ "The Orchard Boat are Rob And BJ taking their gypsy guitar and accordion on a musical adventure through the Jazz, Irish, French and quirky pop music scene."
 [U4ria]: https://www.facebook.com/U4riaBand/ "U4ria is a 5 piece quartet who started out playing Beatles songs, but who have been distracted and subverted by banjo player"
