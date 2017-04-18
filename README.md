@@ -7,9 +7,9 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 
 | Date                 | Time         | What's on                                                | Venue                          |
 | -------------        | ------       | -------------                                            |--------------------------------|
-| Friday 3rd March 2017| 19:00 - 21:00| Ükulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
-| Friday 17th March    | 18:00-???  | [The Shillelaghs] play St Patrick's Day                     | [Oriental Hotel, Springwood]   |
-| Sunday 2nd April     | All day (TBA) | Ükulele Circus and friends! play to 12,000 people\*           | [Milthorpe Markets] |
+| Saturday 29th April 2017| 18:00 - 20:30| [U4ria] perform                              | [Blackheath Golf Club] | 
+| Friday 5th May 2017| 19:00 - 21:00| Ükulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
+
 
 \* Not all people played to at the same time
 ## Ükulele Circus: Not tested on animals!!!!
@@ -57,3 +57,5 @@ Here's the Blue MUGs gig guide:
 [Katoomba Leura Preschool]:  http://www.katoombaleurapreschool.com.au/news-events
 [Milthorpe Markets]: http://www.millthorpemarkets.com/
 [The Shillelaghs]: https://www.facebook.com/theshillelaghsau/
+
+[Blackheath Golf Club]: http://www.blackheathgolf.com.au/restaurant.html
