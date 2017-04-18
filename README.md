@@ -3,15 +3,15 @@
 
 There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? He has as a Ükulele Circus, that's why. This goes some way to making up for his other challenges and disappointments in life. He is a newly-minted grandfather, though, so that's something.
 
-## What's on? (Circus and friends...)
 
-<div>
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=0pahurjenva4h0cgnk8b14lmcg%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FSydney" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-<div>
+
+
 
 ## Ükulele Circus: Not tested on animals!!!!
 
 Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
+
+
 
 ## OK, OK, I want to be Lucky Like Phil™ how can I get involved?
 
@@ -29,6 +29,13 @@ Join our Google Group [mailing list] to get notified of what's going on, or to g
 | Second, fourth and sixth\*\* Thursday of the month 19:00-21:00 | Open uke sing and strum, bring your copy of the [The Ukulele Club Songbook] or print some charts for us to sing | [New Ivanhoe Hotel, Blackheath]  |
 
 \** Should a sixth thursday happen this session will double as an end-of-the-world farewell
+
+## What's on? (Circus and friends...)
+
+
+<div>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=0pahurjenva4h0cgnk8b14lmcg%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FSydney" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div>
 
 ## Is that all there is?
 
