@@ -6,7 +6,7 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 ## What's on? (Circus and friends...)
 
 <div>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=0pahurjenva4h0cgnk8b14lmcg%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FSydney" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=0pahurjenva4h0cgnk8b14lmcg%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FSydney" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <div>
 
 | Date                 | Time         | What's on                                                | Venue                          |
