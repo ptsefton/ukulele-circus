@@ -9,13 +9,6 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=0pahurjenva4h0cgnk8b14lmcg%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FSydney" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <div>
 
-| Date                 | Time         | What's on                                                | Venue                          |
-| -------------        | ------       | -------------                                            |--------------------------------|
-| Saturday 29th April 2017| 18:00 - 20:30| [U4ria] perform                              | [Blackheath Golf Club] | 
-| Friday 5th May 2017| 19:00 - 21:00| Ükulele Circus performs                               | [Blue Mountain Hotel, Lawson] | 
-
-
-\* Not all people played to at the same time
 ## Ükulele Circus: Not tested on animals!!!!
 
 Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
