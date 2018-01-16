@@ -44,7 +44,7 @@ Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Uk
 [The Ukulele Club Songbook]: http://katoombamusic.com.au/product/ukulele-club-songbook/
 [Blue MUGs]: http://bluemugs.net/
 [Festival]: https://www.facebook.com/bluemountainsukefest/
-[mailing list]: 
+[mailing list]: https://mailman-mail5.webfaction.com/listinfo/ukes
 [Facebook page]: https://www.facebook.com/circusukulele/
 [Katoomba Leura Preschool]:  http://www.katoombaleurapreschool.com.au/news-events
 [Milthorpe Markets]: http://www.millthorpemarkets.com/
