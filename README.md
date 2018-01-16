@@ -19,7 +19,7 @@ The Ükulele Circus pitches its tent on the first Friday of every month at the B
 
 If you'd like to play with us, start by coming along to the regular Thursday night uke session at the New Ivanhoe Hotel in Blackheath (about half an hour further from Sydney than Lawson), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
 
-Join our Google Group [mailing list] to get notified of what's going on, or to get in contact with us. There's also a [Facebook page].
+Join our [mailing list] to get notified of what's going on, or to get in contact with us. There's also a [Facebook page].
 
 ## Sessions
 
@@ -44,7 +44,7 @@ Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Uk
 [The Ukulele Club Songbook]: http://katoombamusic.com.au/product/ukulele-club-songbook/
 [Blue MUGs]: http://bluemugs.net/
 [Festival]: https://www.facebook.com/bluemountainsukefest/
-[mailing list]: https://groups.google.com/d/forum/lucky-phils-ukulele-circus
+[mailing list]: 
 [Facebook page]: https://www.facebook.com/circusukulele/
 [Katoomba Leura Preschool]:  http://www.katoombaleurapreschool.com.au/news-events
 [Milthorpe Markets]: http://www.millthorpemarkets.com/
