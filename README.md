@@ -26,7 +26,7 @@ Join our [mailing list] to get notified of what's going on, or to get in contact
 
 ## Hang on, we're about to tell you how to join in, but before we do that: let's be clear here, this is *NOT* the Blue Mountains Ukulele Group website
 
-Before we go on, we need to make sure you know where you are - please don't get us mixed up with the Blue Mountains Ukulele Group, affecionately known as the MUGS (not the MÜGS with [a Heavy Metal Umlaut](https://en.wikipedia.org/wiki/Metal_umlaut)), they're just plain old Mugs. Mugs, plain and simple. They're mugs. We're the Circus. They're the mugs. They have several websites. THESE ARE THEIR WEBSITES:
+Before we go on, we need to make sure you know where you are - please don't get us mixed up with the Blue Mountains Ukulele Group, affectionately known as the MUGS (not the MÜGS with [a Heavy Metal Umlaut](https://en.wikipedia.org/wiki/Metal_umlaut)), they're just plain old Mugs. Mugs, plain and simple. They're mugs. We're the Circus. They're the mugs. They have several websites. THESE ARE THEIR WEBSITES:
 
 *  The *Blue Mountains Ukulele Group*  have a public site: <http://bluemugs.com.au>
 
