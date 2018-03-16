@@ -34,7 +34,7 @@ Before we go on, we need to make sure you know where you are - please don't get 
 
 *  The *Blue Mountains Ukulele Group* AKA the BLÜE MÜGS, sorry the Bluemugs, they're mugs, they're not heavy metal, run the Blue Mountains Ukulele Festival. Some people claim this is THE BIGGEST UKULELE FESTIVAL IN THE WORLD. The festival is [on the Facebooks](https://www.facebook.com/bluemountainsukefest/).
 
-## NOTE: WHilst we're in support of all sorts of musical events and in favour of festivals, Ukulele Circus is not involved in running the BIGGEST UKULELE FESTIVAL IN THE WORLD
+## NOTE: Whilst we're in support of all sorts of musical events and in favour of festivals, Ukulele Circus is not involved in running the BIGGEST UKULELE FESTIVAL IN THE WORLD
 
 Ok, on with the web page.
 
