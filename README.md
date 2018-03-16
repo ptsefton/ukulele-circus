@@ -3,7 +3,11 @@
 
 There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? He has as a Ükulele Circus, that's why. This goes some way to making up for his other challenges and disappointments in life. He is a newly-minted grandfather, though, so that's something.
 
+## Hang on!
 
+Now, before we go on let's be clear about this. We play ukes and we're based in the Blue Mountains. **But this is not the Blue Mountains Ukulele Group*.
+
+This is important. *WE ARE NOT THE THE BLUE MOUNTAINS UKUELE GROUP* THEY ARE OVER THERE [===========>](http://bluemugs.com.au)*
 
 
 
@@ -20,6 +24,21 @@ The Ükulele Circus pitches its tent on the first Friday of every month at the B
 If you'd like to play with us, start by coming along to the regular Thursday night uke session at the New Ivanhoe Hotel in Blackheath (about half an hour further from Sydney than Lawson), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
 
 Join our [mailing list] to get notified of what's going on, or to get in contact with us. There's also a [Facebook page].
+
+## Hang on, we're about to tell you how to join in, but befor we do that: let's be clear here, this is *NOT* the Blue Mountains Ukulele Group website
+
+Before we go on, we need to make sure you know where you are - please don't get us mixed up with the Blue Mountains Ukulele Group, affecionately known as the MUGS (not the MÜGS with [a Heavy Metal Umlaut](https://en.wikipedia.org/wiki/Metal_umlaut)), they're just plain old Mugs. Mugs, plain and simple. They're mugs. We're the Circus. They're the mugs. They have several websites. THESE ARE THEIR WEBSITES:
+
+*  The *Blue Mountains Ukulele Group*  have a public site: <http://bluemugs.com.au>
+
+*  The *Blue Mountains Ukulele Group* they have a member-only site, but don't worry anyone can join: <https://bluemugs,net.au>. If you go there you can find out how to become a member of their Association. 
+
+*  The *Blue Mountains Ukulele Group* AKA the BLÜE MÜGS, sorry the Bluemugs, they're mugs, they're not heavy metal, run the Blue Mountains Ukulele Festival. Some people claim this is THE BIGGEST UKULELE FESTIVAL IN THE WORLD. They are [on the Facebooks](https://www.facebook.com/bluemountainsukefest/).
+
+## NOTE: The Ukulele Circus does not support or sponsor the BIGGEST UKULELE FESTIVAL IN THE WORLD
+
+Ok, on with the web page.
+
 
 ## Sessions
 
