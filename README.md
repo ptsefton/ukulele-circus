@@ -32,9 +32,9 @@ Before we go on, we need to make sure you know where you are - please don't get 
 
 *  The *Blue Mountains Ukulele Group* they have a member-only site, but don't worry anyone can join: <http://bluemugs.net>. If you go there you can find out how to become a member of their Association. 
 
-*  The *Blue Mountains Ukulele Group* AKA the BLÜE MÜGS, sorry the Bluemugs, they're mugs, they're not heavy metal, run the Blue Mountains Ukulele Festival. Some people claim this is THE BIGGEST UKULELE FESTIVAL IN THE WORLD. They are [on the Facebooks](https://www.facebook.com/bluemountainsukefest/).
+*  The *Blue Mountains Ukulele Group* AKA the BLÜE MÜGS, sorry the Bluemugs, they're mugs, they're not heavy metal, run the Blue Mountains Ukulele Festival. Some people claim this is THE BIGGEST UKULELE FESTIVAL IN THE WORLD. The festival is [on the Facebooks](https://www.facebook.com/bluemountainsukefest/).
 
-## NOTE: The Ukulele Circus does not support or sponsor the BIGGEST UKULELE FESTIVAL IN THE WORLD
+## NOTE: WHilst we're in support of all sorts of musical events and in favour of festivals, Ukulele Circus is not involved in running the BIGGEST UKULELE FESTIVAL IN THE WORLD
 
 Ok, on with the web page.
 
@@ -43,7 +43,7 @@ Ok, on with the web page.
 | Day | Session info             | Venue                                                               |
 | --- | ------------------------------------------------------|---------------------------------| 
 | First, third and fifth Tuesday of the month 19:00-21:00     | Irish (and other) folk. Uke based session. | [Oriental Hotel, Springwood]    |
-| Second, fourth and sixth\*\* Thursday of the month 19:00-21:00 | Open uke sing and strum, bring your copy of the [The Ukulele Club Songbook] or print some charts for us to sing | [New Ivanhoe Hotel, Blackheath]  |
+| Second, fourth and sixth\*\* Thursday of the month 19:00-21:00 | Open, friendly community uke sing and strum, bring your copy of the [The Ukulele Club Songbook] or print some charts for us to sing | [New Ivanhoe Hotel, Blackheath]  |
 
 \** Should a sixth thursday happen this session will double as an end-of-the-world farewell
 
