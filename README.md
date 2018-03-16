@@ -7,14 +7,13 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 
 Now, before we go on let's be clear about this. We play ukes and we're based in the Blue Mountains. **But this is not the Blue Mountains Ukulele Group*.
 
-This is important. *WE ARE NOT THE THE BLUE MOUNTAINS UKUELE GROUP* THEY ARE OVER THERE [===========>](http://bluemugs.com.au)*
+This is important. **WE ARE NOT THE THE BLUE MOUNTAINS UKUELE GROUP** THEY ARE OVER THERE [===========>](http://bluemugs.com.au)
 
 
 
 ## Ükulele Circus: Not tested on animals!!!!
 
 Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
-
 
 
 ## OK, OK, I want to be Lucky Like Phil™ how can I get involved?
@@ -25,7 +24,7 @@ If you'd like to play with us, start by coming along to the regular Thursday nig
 
 Join our [mailing list] to get notified of what's going on, or to get in contact with us. There's also a [Facebook page].
 
-## Hang on, we're about to tell you how to join in, but befor we do that: let's be clear here, this is *NOT* the Blue Mountains Ukulele Group website
+## Hang on, we're about to tell you how to join in, but before we do that: let's be clear here, this is *NOT* the Blue Mountains Ukulele Group website
 
 Before we go on, we need to make sure you know where you are - please don't get us mixed up with the Blue Mountains Ukulele Group, affecionately known as the MUGS (not the MÜGS with [a Heavy Metal Umlaut](https://en.wikipedia.org/wiki/Metal_umlaut)), they're just plain old Mugs. Mugs, plain and simple. They're mugs. We're the Circus. They're the mugs. They have several websites. THESE ARE THEIR WEBSITES:
 
@@ -39,7 +38,6 @@ Before we go on, we need to make sure you know where you are - please don't get 
 
 Ok, on with the web page.
 
-
 ## Sessions
 
 | Day | Session info             | Venue                                                               |
@@ -49,9 +47,6 @@ Ok, on with the web page.
 
 \** Should a sixth thursday happen this session will double as an end-of-the-world farewell
 
-## Is that all there is?
-
-Many of the Ukulele Circus Phreaks met via, and play with, the Blue Mountains Ukulele Group ([Blue MUGs]), lots of fun stuff on there. The Blue MUGs are welcoming and inclusive, check them out!
 
 
 [The Orchard Boat]: https://www.facebook.com/theorchardboat/ "The Orchard Boat are Rob And BJ taking their gypsy guitar and accordion on a musical adventure through the Jazz, Irish, French and quirky pop music scene."
