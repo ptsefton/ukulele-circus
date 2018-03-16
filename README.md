@@ -5,7 +5,7 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 
 ## Hang on!
 
-Now, before we go on let's be clear about this. We play ukes and we're based in the Blue Mountains. **But this is not the Blue Mountains Ukulele Group*.
+Now, before we go on let's be clear about this. We play ukes and we're based in the Blue Mountains. **But this is not the Blue Mountains Ukulele Group**.
 
 This is important. **WE ARE NOT THE THE BLUE MOUNTAINS UKUELE GROUP** THEY ARE OVER THERE [===========>](http://bluemugs.com.au)
 
