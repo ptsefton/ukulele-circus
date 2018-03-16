@@ -30,7 +30,7 @@ Before we go on, we need to make sure you know where you are - please don't get 
 
 *  The *Blue Mountains Ukulele Group*  have a public site: <http://bluemugs.com.au>
 
-*  The *Blue Mountains Ukulele Group* they have a member-only site, but don't worry anyone can join: <https://bluemugs.net>. If you go there you can find out how to become a member of their Association. 
+*  The *Blue Mountains Ukulele Group* they have a member-only site, but don't worry anyone can join: <http://bluemugs.net>. If you go there you can find out how to become a member of their Association. 
 
 *  The *Blue Mountains Ukulele Group* AKA the BLÜE MÜGS, sorry the Bluemugs, they're mugs, they're not heavy metal, run the Blue Mountains Ukulele Festival. Some people claim this is THE BIGGEST UKULELE FESTIVAL IN THE WORLD. They are [on the Facebooks](https://www.facebook.com/bluemountainsukefest/).
 
