@@ -3,20 +3,13 @@
 
 There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? He has as a Ükulele Circus, that's why. This goes some way to making up for his other challenges and disappointments in life. He is a newly-minted grandfather, though, so that's something.
 
-## Hang on!
-
-Now, before we go on let's be clear about this. We play ukes and we're based in the Blue Mountains. **But this is not the Blue Mountains Ukulele Group**.
-
-This is important. **WE ARE NOT THE THE BLUE MOUNTAINS UKUELE GROUP** THEY ARE OVER THERE [===========>](http://bluemugs.com.au)
-
-
 
 ## Ükulele Circus: Not tested on animals!!!!
 
 Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
 
 
-## OK, OK, I want to be Lucky Like Phil™ how can I get involved?
+## OK, OK, I want to be *Lucky Like Phil™* how can I get involved?
 
 The Ükulele Circus pitches its tent on the first Friday of every month at the Blue Mountains Hotel in Lawson (that's near Sydney, in Australia).
 
@@ -24,19 +17,11 @@ If you'd like to play with us, start by coming along to the regular Thursday nig
 
 Join our [mailing list] to get notified of what's going on, or to get in contact with us. There's also a [Facebook page].
 
-## Hang on, we're about to tell you how to join in, but before we do that: let's be clear here, this is *NOT* the Blue Mountains Ukulele Group website
+NOTE: We play ukes and we're based in the Blue Mountains. **But this is not the Blue Mountains Ukulele Group**. 
 
-Before we go on, we need to make sure you know where you are - please don't get us mixed up with the Blue Mountains Ukulele Group, affectionately known as the MUGS (not the MÜGS with [a Heavy Metal Umlaut](https://en.wikipedia.org/wiki/Metal_umlaut)), they're just plain old Mugs. Mugs, plain and simple. They're mugs. We're the Circus. They're the mugs. They have several websites. THESE ARE THEIR WEBSITES:
+The Ukulele Circus is proud to be sponsored by [Katoomba Music](http://katoombamusic.com.au/), a great locally owned shop with a fantastic range of ukes. They even have other weird stuff like "guitars" and "banjos" and "amps" and "accessories", if for some unthamobaly reason the uke is not fullfilling all your desires. Katoomba Music also have a [gig guide](http://katoombamusic.com.au/katoomba-music-gig-guide/)☥ covering events in the Blue Mountains.
 
-*  The *Blue Mountains Ukulele Group*  have a public site: <http://bluemugs.com.au>
-
-*  The *Blue Mountains Ukulele Group* they have a member-only site, but don't worry anyone can join: <http://bluemugs.net>. If you go there you can find out how to become a member of their Association. 
-
-*  The *Blue Mountains Ukulele Group* AKA the BLÜE MÜGS, sorry the Bluemugs, they're mugs, they're not heavy metal, run the Blue Mountains Ukulele Festival. Some people claim this is THE BIGGEST UKULELE FESTIVAL IN THE WORLD. The festival is [on the Facebooks](https://www.facebook.com/bluemountainsukefest/).
-
-## NOTE: Whilst we're in support of all sorts of musical events and in favour of festivals, Ukulele Circus is not involved in running the BIGGEST UKULELE FESTIVAL IN THE WORLD
-
-Ok, on with the web page.
+☥ NOTE: Some events listed on Katoomba Music gig guide may NOT contain ukes.
 
 ## Sessions
 
@@ -46,7 +31,6 @@ Ok, on with the web page.
 | Second, fourth and sixth\*\* Thursday of the month 19:00-21:00 | Open, friendly community uke sing and strum, bring your copy of the [The Ukulele Club Songbook] or print some charts for us to sing | [New Ivanhoe Hotel, Blackheath]  |
 
 \** Should a sixth thursday happen this session will double as an end-of-the-world farewell
-
 
 
 [The Orchard Boat]: https://www.facebook.com/theorchardboat/ "The Orchard Boat are Rob And BJ taking their gypsy guitar and accordion on a musical adventure through the Jazz, Irish, French and quirky pop music scene."
