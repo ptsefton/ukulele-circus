@@ -19,7 +19,7 @@ Join our [mailing list] to get notified of what's going on, or to get in contact
 
 NOTE: We play ukes and we're based in the Blue Mountains. **But this is not the Blue Mountains Ukulele Group**. 
 
-The Ukulele Circus is proud to be sponsored by [Katoomba Music](http://katoombamusic.com.au/), a great locally owned shop with a fantastic range of ukes. They even have other weird stuff like "guitars" and "banjos" and "amps" and "accessories", if for some unthamobaly reason the uke is not fullfilling all your desires. Katoomba Music also have a [gig guide](http://katoombamusic.com.au/katoomba-music-gig-guide/)☥ covering events in the Blue Mountains.
+The Ukulele Circus is proud to be sponsored by [Katoomba Music](http://katoombamusic.com.au/), a great locally owned shop with a fantastic range of ukes. They even have other weird stuff like "guitars" and "banjos" and "amps" and "accessories", if for some unfathomable reason the uke is not fulfilling all your desires. Katoomba Music also have a [gig guide](http://katoombamusic.com.au/katoomba-music-gig-guide/)☥ covering events in the Blue Mountains.
 
 ☥ NOTE: Some events listed on Katoomba Music gig guide may NOT contain ukes.
 
