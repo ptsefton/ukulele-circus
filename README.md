@@ -1,10 +1,10 @@
 
 ## Welcome to (Lucky Phil's) Ükulele Circus
 
-There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? He has as a Ükulele Circus, that's why. This goes some way to making up for his other challenges and disappointments in life. He is a newly-minted grandfather, though, so that's something.
+There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know you're wondering: why is Phil Lucky? He has as a Ükülele Circus, that's why. This goes some way to making up for his other challenges and disappointments in life. He is a newly-minted grandfather, though, so that's something.
 
 
-## Ükulele Circus: Not tested on animals!!!!
+## Ükülele Circus: Not tested on animals!!!!
 
 Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
 
@@ -39,7 +39,7 @@ If you'd like to play with us, start by coming along to the regular Thursday nig
 [The Ukulele Club Songbook]: http://katoombamusic.com.au/product/ukulele-club-songbook/
 [Blue MUGs]: http://bluemugs.net/
 [Festival]: https://www.facebook.com/bluemountainsukefest/
-[mailing list]: https://mailman-mail5.webfaction.com/listinfo/ukes
+[mailing list]: https://lists.ukulelecircus.com/mailman/listinfo/ukes
 [Facebook page]: https://www.facebook.com/circusukulele/
 [Katoomba Leura Preschool]:  http://www.katoombaleurapreschool.com.au/news-events
 [Milthorpe Markets]: http://www.millthorpemarkets.com/
