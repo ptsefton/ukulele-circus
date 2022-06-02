@@ -9,12 +9,6 @@ There are a few Ukulele Circuses in the world, this one is Lucky Phil's. We know
 Many modern circuses have no animals, and this one is no different. We also have no clowns, no acrobats, nor do we have any jugglers, although we do have a few down-market ring masters. Yeah, alright, maybe there's a clown or two.
 
 
-## OK, OK, I want to be *Lucky Like Phil™* how can I get involved?
-
-The Ükulele Circus pitches its tent on the first Friday of every month at the Blue Mountains Hotel in Lawson (that's near Sydney, in Australia).
-
-If you'd like to play with us, start by coming along to the regular Thursday night uke session at the New Ivanhoe Hotel in Blackheath (about half an hour further from Sydney than Lawson), or for a folksier sing-along with an Irish lilt join us for a Guiness at the Ori in Springwood (a bit closer to Sydney).
-
 Join our [mailing list] to get notified of what's going on, or to get in contact with us. There's also a [Facebook page].
 
 NOTE: We play ukes and we're based in the Blue Mountains. **But this is not the Blue Mountains Ukulele Group**. 
@@ -25,12 +19,15 @@ The Ukulele Circus is proud to be sponsored by [Katoomba Music](http://katoombam
 
 ## Sessions
 
-| Day | Session info             | Venue                                                               |
-| --- | ------------------------------------------------------|---------------------------------| 
-| First, third and fifth Tuesday of the month 19:00-21:00     | Irish (and other) folk. Uke based session. | [Oriental Hotel, Springwood]    |
-| Second, fourth and sixth\*\* Thursday of the month 19:00-21:00 | Open, friendly community uke sing and strum, bring your copy of the [The Ukulele Club Songbook] or print some charts for us to sing | [New Ivanhoe Hotel, Blackheath]  |
 
-\** Should a sixth thursday happen this session will double as an end-of-the-world farewell
+If you'd like to play with us, start by coming along to the regular Thursday night uke sessions at the New Ivanhoe Hotel in Blackheath and the Grandview in Wentworth Falls. Open, friendly community uke sing and strum, bring your copy of the [The Ukulele Club Songbook] or print some charts for us to sing.
+
+
+| Day |  Venue                                                                                  |
+| --- | ----------------------------------------------------------------------------------------| 
+| First Thursday of the month 19:00-21:00   |  [Grand View Hotel, Wentworth Falls]    |
+| Third Thursday of the month 19:00-21:00 | [New Ivanhoe Hotel, Blackheath]  |
+
 
 
 [The Orchard Boat]: https://www.facebook.com/theorchardboat/ "The Orchard Boat are Rob And BJ taking their gypsy guitar and accordion on a musical adventure through the Jazz, Irish, French and quirky pop music scene."
@@ -47,13 +44,8 @@ The Ukulele Circus is proud to be sponsored by [Katoomba Music](http://katoombam
 [Katoomba Leura Preschool]:  http://www.katoombaleurapreschool.com.au/news-events
 [Milthorpe Markets]: http://www.millthorpemarkets.com/
 [The Shillelaghs]: https://www.facebook.com/theshillelaghsau/
-
+[Grand View Hotel, Wentworth Falls]: https://www.thegrandviewhotel.com/
 [Blackheath Golf Club]: http://www.blackheathgolf.com.au/restaurant.html
 
-## What's on? (Circus and friends...)
-
-
-<div>
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=0pahurjenva4h0cgnk8b14lmcg%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FSydney" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <div>
 
